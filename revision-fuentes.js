@@ -1,5 +1,5 @@
 let fuenteActual = 1
-const totalFuentes = 4
+const totalFuentes = 5000
 
 console.log("Revisión de fuentes antes de compartir información")
 
